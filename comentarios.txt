@@ -8,3 +8,4 @@ En caso de que se quiera crear una card con css un poco distinto se quita el "it
 nueva con su css especifico.
 
 En el momento de crear estas cards aun no son responsive por lo que no se ven bien en pantallas pequeñas.
+Miercoles 4 de Diciembre de 2024
