@@ -1,0 +1,10 @@
+El javascrip esta mandando la fecha actual, por lo que si las tarjetas se quieren usar para poner por ejemplo
+alguna noticia se quita el scrip de la fecha actual y se pone directamente la fecha deseada.
+
+Las car tienen un scrip que agrega un indice a la card por lo que si se quiere crear una nueva solo es necesario
+copiar y pagar el html.
+
+En caso de que se quiera crear una card con css un poco distinto se quita el "item" de la clase y se agrega la clase
+nueva con su css especifico.
+
+En el momento de crear estas cards aun no son responsive por lo que no se ven bien en pantallas pequeñas.
